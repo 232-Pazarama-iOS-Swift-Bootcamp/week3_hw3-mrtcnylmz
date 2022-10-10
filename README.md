@@ -1,5 +1,6 @@
 # Pazarama iOS Bootcamp - Hafta 3 - Ödev
 
+https://user-images.githubusercontent.com/49480936/194952759-74b9d647-8477-429e-887a-2aa458f242b2.mp4
 
 ## iTunes Client App
 
